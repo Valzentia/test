@@ -1,2 +1,2 @@
---Valzentia is god.
+'Valzentia is god.'
 MsgBox("Hello world!")
